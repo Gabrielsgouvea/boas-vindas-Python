@@ -4,6 +4,8 @@ Este projeto é uma releitura modernizada do meu primeiro programa em Python, de
 
 O objetivo do software é uma interação simples entre humano e máquina: o robô pergunta seu nome e idade, calcula seu ano de nascimento e lhe dá as boas-vindas ao mundo da programação visual.
 
+# Tecnologias antigas para novas
+
 | Característica | Versão 2012 (Apostila) | Versão 2026 (Atual) |
 | :--- | :--- | :--- |
 | **Linguagem** | Python 2.7 | Python 3.14+ |
