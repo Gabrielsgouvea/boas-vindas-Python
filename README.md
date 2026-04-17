@@ -1,4 +1,4 @@
-# boas-vinda-Python
+# boas-vindas-Python
 Py_Robot 2.0 - Evolução de 2012 para 2026
 Este projeto é uma releitura modernizada do meu primeiro programa em Python, desenvolvido originalmente em 2012.
 
