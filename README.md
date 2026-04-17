@@ -23,7 +23,7 @@ O objetivo do software é uma interação simples entre humano e máquina: o rob
 - saudacao.fbp
 - saudacao.py
 
-# configurar WxformBuilder
+# Configurar WxformBuilder
 - 1 Instale o Python 3
 - 2 Instale o wxPython
 - 3 Configure o PATH nas variáveis de ambiente, garantindo que as entradas abaixo estejam no topo, nesta ordem:
